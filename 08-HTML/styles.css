@@ -1,0 +1,28 @@
+h1 {color: rgb(0, 0, 0);}
+img {width: 400px;}
+#main {
+	display: flex;
+	flex-direction: column;
+	position:relative;
+	top: 20px;
+	left: 20px;
+	max-width: 600px;
+}
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background: rgb(66, 66, 66);
+	padding: 50px;
+	border-color: black;
+	border-style: inset;
+	border-width: medium
+}
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+div {
+	margin-left: auto;
+	margin-right: auto;
+}
+</style>
